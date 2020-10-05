@@ -91,7 +91,7 @@ module.exports = function toReadable (number) {
             answerArr[1] = "fifty";
             break;
         case "six":
-            answerArr[1] = "sixty ";
+            answerArr[1] = "sixty";
             break;
         case "seven":
             answerArr[1] = "seventy";
